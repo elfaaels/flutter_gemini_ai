@@ -3,8 +3,8 @@
 Flutter Playground for Gemini AI & Project IDX
 
 ## Preview
-![Uploading Screenshot 2024-05-30 at 10.40.44.png…]()
-![Uploading Screenshot 2024-05-30 at 10.48.23.png…]()
+<img width="1512" alt="Screenshot 2024-05-30 at 10 40 44" src="https://github.com/elfaaels/flutter_gemini_ai/assets/66504398/aa509891-98f9-43a2-8ca4-9a058d8dfa31">
+<img width="1512" alt="Screenshot 2024-05-30 at 10 48 23" src="https://github.com/elfaaels/flutter_gemini_ai/assets/66504398/e6276f1b-f57d-404c-9c57-5de2773fbae2">
 
 
 ## Getting Started
