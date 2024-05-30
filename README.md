@@ -1,6 +1,11 @@
-# myapp
+# Flutter Gemini AI
 
-A new Flutter project.
+Flutter Playground for Gemini AI & Project IDX
+
+## Preview
+![Uploading Screenshot 2024-05-30 at 10.40.44.png…]()
+![Uploading Screenshot 2024-05-30 at 10.48.23.png…]()
+
 
 ## Getting Started
 
